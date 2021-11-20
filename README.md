@@ -1,5 +1,6 @@
 <div align="center">
-  <h2>Oi, eu sou o Rafael Rodrigues!</h2>
+  <h1>Oi, eu sou o Rafael Rodrigues!</h1>
+  <h2>Bem-vindo ao meu perfil Github😄</h2>
 </div>
 <div align="center">
   <a href="https://github.com/rafaeusilvar">
