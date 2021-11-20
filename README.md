@@ -2,6 +2,7 @@
   <h1>Oi, eu sou o Rafael Rodrigues!</h1>
   <h2>Bem-vindo ao meu perfil Github😄</h2>
 </div>
+<br><br>
 <div align="center">
   <a href="https://github.com/rafaeusilvar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeusilvar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
