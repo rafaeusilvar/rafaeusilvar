@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/victoryroad/images/8/8e/FLArt_150.png/revision/latest?cb=20160821004844" style="width: 3rem;">
   <h2>Bem-vindo ao meu perfil Github</h2>
+  <img src="https://static.wikia.nocookie.net/victoryroad/images/8/8e/FLArt_150.png/revision/latest?cb=20160821004844" style="width: 5rem;">
 </div>
 <br><br>
 <div align="center">
