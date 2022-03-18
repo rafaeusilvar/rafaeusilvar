@@ -1,10 +1,10 @@
 <div align="center">
   <h2>Hey, Bem-Vindo Ao Meu No Perfil Github!</h2>
-  <p style"font-size:2rem;">Me chamo Rafael Silva</p>
-  <p style"font-size:2rem;">Sou um pequeno jedi no mundo do desenvolvimento web</p>
+  <p style"font-size:2rem;">Me chamo Rafael Silva.</p>
+  <p style"font-size:2rem;">Sou um pequeno jedi no mundo do desenvolvimento web.</p>
   <p style"font-size:2rem;">Sou grande fã de jogos virtuais e muita coisa que envolve tecnologia.</p>
   <p style"font-size:2rem;">Atualmente estou cursando Análise e Desenvolvimento de Sistemas.💻</p>
-  <p style="font-size:2rem;">Sinta-se livre para conhecer os meus projetos que se escontram nos repositórios de meu perfil!🚀</p>
+  <p style="font-size:2rem;">Sinta-se livre para conhecer os meus projetos que se escontram nos repositórios deste perfil!🚀</p>
   <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" style="width: 5rem;">
 </div>
 <br><br>
