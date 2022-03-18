@@ -5,7 +5,7 @@
   <p style"font-size:2rem;">Sou grande fã de jogos virtuais e muita coisa que envolve tecnologia.</p>
   <p style"font-size:2rem;">Atualmente estou cursando Análise e Desenvolvimento de Sistemas.💻</p>
   <p style="font-size:2rem;">Sinta-se livre para conhecer os meus projetos que se escontram nos repositórios de meu perfil!🚀</p>
-  <img src="https://rockntech.com.br/wp-content/uploads/2013/12/gifs-momentos-de-felicidade_4.gif" style="width: 5rem;">
+  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" style="width: 5rem;">
 </div>
 <br><br>
 <div align="center">
