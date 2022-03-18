@@ -1,8 +1,9 @@
 <div align="center">
-  <h2>Hey, Bem-vindo ao meu perfil Github!</h2>
+  <h2>Hey, Bem-Vindo Ao Meu No Perfil Github!</h2>
   <p style"font-size:2rem;">Me chamo Rafael Silva</p>
+  <p style"font-size:2rem;">Sou um pequeno jedi no mundo do desenvolvimento web</p>
   <p style"font-size:2rem;">Sou grande fã de jogos virtuais e muita coisa que envolve tecnologia.</p>
-  <p style"font-size:2rem;">Altualmente estou cursando Análise e Desenvolvimento de Sistemas.💻</p>
+  <p style"font-size:2rem;">Atualmente estou cursando Análise e Desenvolvimento de Sistemas.💻</p>
   <p style="font-size:2rem;">Sinta-se livre para conhecer os meus projetos que se escontram nos repositórios de meu perfil!🚀</p>
   <img src="https://rockntech.com.br/wp-content/uploads/2013/12/gifs-momentos-de-felicidade_4.gif" style="width: 5rem;">
 </div>
@@ -17,7 +18,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
+  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif">-->
 </div>
 
  ##
