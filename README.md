@@ -1,5 +1,7 @@
 <div align="center">
-  <h2>Bem-vindo ao meu perfil Github</h2>
+  <h2>Hey, Bem-vindo ao meu perfil Github!</h2>
+  <h3>Me chamo Rafael Silva, tenho 25 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas.💻</h3>
+  <p style="font-size:2rem">Sinta-se livre para conhecer os meus projetos que se escontram nos repositórios.</p>
   <img src="https://static.wikia.nocookie.net/victoryroad/images/8/8e/FLArt_150.png/revision/latest?cb=20160821004844" style="width: 5rem;">
 </div>
 <br><br>
