@@ -1,8 +1,8 @@
 <div align="center">
   <h2>Hey, Bem-vindo ao meu perfil Github!</h2>
-  <p style"font-size:2rem;">Me chamo Rafael Silva, tenho 25 anos, amo jogos virtuais e tecnologia!</p>
+  <p style"font-size:2rem;">Me chamo Rafael Silva</p>
   <p style"font-size:2rem;">Sou grande fã de jogos virtuais e muita coisa que envolve tecnologia.</p>
-  <p style"font-size:2rem;">Estou cursando Análise e Desenvolvimento de Sistemas.💻</p>
+  <p style"font-size:2rem;">Altualmente estou cursando Análise e Desenvolvimento de Sistemas.💻</p>
   <p style="font-size:2rem;">Sinta-se livre para conhecer os meus projetos que se escontram nos repositórios de meu perfil!🚀</p>
   <img src="https://static.wikia.nocookie.net/victoryroad/images/8/8e/FLArt_150.png/revision/latest?cb=20160821004844" style="width: 5rem;">
 </div>
