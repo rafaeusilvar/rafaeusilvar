@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hey, Bem-Vindo Ao Meu No Perfil Github!</h2>
+  <h2>Hey, seja bem-vindo ao meu perfil Github!</h2>
   <p style"font-size:2rem;">Me chamo Rafael Silva.</p>
   <p style"font-size:2rem;">Sou um pequeno jedi no mundo do desenvolvimento web.</p>
   <p style"font-size:2rem;">Sou grande fã de jogos virtuais e muita coisa que envolve tecnologia.</p>
